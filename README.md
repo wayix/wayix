@@ -6,10 +6,11 @@
 - 👋 Привет, я @wayix
 - 👀 Я пишу на NodeJS, TypeScript, Rust
 
-VK - https://vk.com/wayixdev
-TG - https://t.me/wayixdev
-Steam - https://steamcommunity.com/id/wayixdev/
-Gmail - wayixdev@gmail.com
+# To contact me
+- VK - https://vk.com/wayixdev
+- TG - https://t.me/wayixdev
+- Steam - https://steamcommunity.com/id/wayixdev/
+- Gmail - wayixdev@gmail.com
 
 <!---
 wayix/wayix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
