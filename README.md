@@ -1,9 +1,9 @@
-!--- English ---!
+# English
 - 👋 Hi, I'm @wayix
 - 👀 I write in NodeJS, TypeScript, Rust
 - 📫 How to reach me wayixdev@gmail.com
 
-!--- Русский ---!
+# Русский
 - 👋 Привет, я @wayix
 - 👀 Я пишу на NodeJS, TypeScript, Rust
 
