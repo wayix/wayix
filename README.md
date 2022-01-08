@@ -4,11 +4,9 @@
 
 # English
 - 👋 Hi, I'm @wayix
-- 👀 I write in NodeJS, TypeScript, Rust
 
 # Русский
 - 👋 Привет, я @wayix
-- 👀 Я пишу на NodeJS, TypeScript, Rust
 
 # To contact me
 - VK - https://vk.com/wayixdev
