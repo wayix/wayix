@@ -5,9 +5,6 @@
 # English
 - 👋 Hi, I'm @wayix
 
-# Русский
-- 👋 Привет, я @wayix
-
 # To contact me
 - VK - https://vk.com/wayixdev
 - TG - https://t.me/wayixdev
