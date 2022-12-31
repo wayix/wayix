@@ -5,9 +5,10 @@
 # 👋 Hi, I'm @wayix
 
 # To contact me
-- TG - https://t.me/wayixdev
-- Steam - https://steamcommunity.com/id/wayixdev/
-- Gmail - wayixdev@gmail.com
+- TG: https://t.me/wayixdev
+- IG: https://www.instagram.com/_wayix_/
+- Steam: https://steamcommunity.com/id/wayixdev/
+- Gmail: wayixdev@gmail.com
 
 <!---
 wayix/wayix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
