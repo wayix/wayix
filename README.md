@@ -5,7 +5,6 @@
 # 👋 Hi, I'm @wayix
 
 # To contact me
-- VK - https://vk.com/wayixdev
 - TG - https://t.me/wayixdev
 - Steam - https://steamcommunity.com/id/wayixdev/
 - Gmail - wayixdev@gmail.com
